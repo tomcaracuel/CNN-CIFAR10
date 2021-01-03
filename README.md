@@ -1,10 +1,10 @@
 # CNN-CIFAR10
 
-### Red neuronal convolucional para clasificar imágenes
+## Red neuronal convolucional para clasificar imágenes
 
 A diferencia de otro tipo de red neuronal (como una DNN - deep neural network-), las redes neuronales convolucionales (CNN) utilizan neuronas que no son sensibles a todo el conjunto de píxeles de la imagen. Esto permite captar mejor características de los datos y a la vez bajar el numero de parámetros involucrados.
 
-# Composicion basica de una CNN
+### Composicion basica de una CNN
  Generalmente las CNNs tienen como ingredientes basicos los siguientes pasos:<br/>
 
 -Combinacion de capas convolucionales + capas de Pooling<br/>
