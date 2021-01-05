@@ -1,5 +1,5 @@
 # CNN-CIFAR10
-
+Machine Learning
 ## Red neuronal convolucional para clasificar imágenes
 
 A diferencia de otro tipo de red neuronal (como una DNN - deep neural network-), las redes neuronales convolucionales (CNN) utilizan neuronas que no son sensibles a todo el conjunto de píxeles de la imagen. Esto permite captar mejor características de los datos y a la vez bajar el numero de parámetros involucrados.
